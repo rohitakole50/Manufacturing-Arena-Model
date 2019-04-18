@@ -1,0 +1,26 @@
+[RESOURCES]
+Controller
+Drill Press
+Broaching Machine
+Lathe Machine
+[VARIABLES]
+Broaching Center.NumberOut
+Broaching Center.WaitTime
+Need Broaching?.NumberOut True
+Drilling Center.VATime
+Broaching Center.NumberIn
+Lathe Center.WaitTime
+Need Broaching?.NumberOut False
+Lathe Center.NumberOut
+Quality Control Center.WaitTime
+Part Leaves System.NumberOut
+Quality Control Center.NumberIn
+Quality Control Center.NumberOut
+Drilling Center.NumberIn
+Quality Control Center.VATime
+Lathe Center.VATime
+Part Arrives to System.NumberOut
+Broaching Center.VATime
+Lathe Center.NumberIn
+Drilling Center.WaitTime
+Drilling Center.NumberOut
